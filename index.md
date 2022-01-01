@@ -1,6 +1,5 @@
-# Welcome to my GitHub Page
-## Samed Zırhlıoğlu
-### SamedZZZZ
+# Samed Zırhlıoğlu
+## SamedZZZZ
 > I have been using computers since 2005 and programming since 2011. I started with desktop apps. Then I progressed to web design, Android development, and game development. While doing all this, I also worked on cybersecurity.
 
 - My [GitHub website](https://SamedZirhlioglu.github.io).
